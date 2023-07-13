@@ -59087,7 +59087,7 @@ return new A.f9(A.ee(A.a([m,B.cO,A.ci(A.cV(A.a([A.ci(A.a0p(B.uk,s,B.an,p,B.Lg,20
 A.GL.prototype={
 M(a){return new A.f9(A.cV(A.a([B.xV,A.CX("assets/lottie/smile_animated.json",null,42)],t.p),B.ao,B.dg,B.n),null,B.h7,null)}}
 A.Dq.prototype={
-M(a){return new A.tC(B.yk,"Flutter Demo",A.ae6(B.as,null),null)}}
+M(a){return new A.tC(B.yk,"Giovane Lopes - Dev.",A.ae6(B.as,null),null)}}
 A.nb.prototype={
 AR(a,b,c,d,e,f,g,h,a0){var s,r,q,p,o,n,m,l,k,j=this,i=j.r
 i.sKV(c)
