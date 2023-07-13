@@ -59006,7 +59006,7 @@ return new A.f9(A.ee(A.a([o,A.ci(new A.hZ(B.ip,A.cV(A.a([A.ci(A.vg(A.abx(A.am(ne
 A.Sb.prototype={
 $0(){var s=window
 s.toString
-B.Lf.a1o(s,"assets/pdf/cv.pdf","text")},
+B.Lf.a1o(s,"assets/assets/pdf/cv.pdf","text")},
 $S:0}
 A.Sc.prototype={
 $1(a){return new A.dJ(new A.Sa(this.a,a),null)},
@@ -67649,7 +67649,7 @@ s($,"ax1","ai4",()=>A.bP(16667,0))
 s($,"axB","ain",()=>A.a8I(0,1))
 s($,"aw9","ahy",()=>A.adY(0.5,1.1,100))
 s($,"auA","a7f",()=>A.agf(0.78)/A.agf(0.9))
-s($,"auN","agT",()=>A.a([A.Xc("Aplicativo de compartilhamento de localiza\xe7\xe3o em tempo real.","Safe Family","repositoryUrl"),A.Xc("Aplicativo dicion\xe1rio em ingl\xeas, consome a WordsApi que infoma a pronuncia e significados das palavras. Integra\xe7\xe3o de dados e autentica\xe7\xe3o com Firebase.","App Dictionary","https://github.com/GiovaneLopes/desafio-mobile"),A.Xc("Aplicativo de dieta para o preparat\xf3rio do exame Petct.","App Endocardite","https://github.com/GCAS-UFF/cardiac_petct"),A.Xc("Aplicativo para criar listas de tarefas, marcar tarefas j\xe1 conlu\xeddas e acompanhar o progresso.","Todo Lopes","https://github.com/GiovaneLopes/todo_lopes")],A.a3("u<ot>")))
+s($,"auN","agT",()=>A.a([A.Xc("Aplicativo de compartilhamento de localiza\xe7\xe3o em tempo real.","Safe Family","https://github.com/GiovaneLopes/safe_family"),A.Xc("Aplicativo dicion\xe1rio em ingl\xeas, consome a WordsApi que infoma a pronuncia e significados das palavras. Integra\xe7\xe3o de dados e autentica\xe7\xe3o com Firebase.","App Dictionary","https://github.com/GiovaneLopes/desafio-mobile"),A.Xc("Aplicativo de dieta para o preparat\xf3rio do exame Petct.","App Endocardite","https://github.com/GCAS-UFF/cardiac_petct"),A.Xc("Aplicativo para criar listas de tarefas, marcar tarefas j\xe1 conlu\xeddas e acompanhar o progresso.","Todo Lopes","https://github.com/GiovaneLopes/todo_lopes")],A.a3("u<ot>")))
 s($,"auM","agS",()=>{var q="Clean Architecture",p=t.s
 return A.a([A.a86("Conecta Servi\xe7os","Jul/20","Jan/20","Desenvolvedor Flutter Estagi\xe1rio",A.a(["Flutter","Firebase","BLoC/Cubit",q,"Figma","Responsividade"],p)),A.a86("Inspectos","Jan/22","Out/20","Desenvolvedor Mobile Jr.",A.a(["Flutter","Firebase","BLoC/Cubit","UI/UX","Figma","Responsividade"],p)),A.a86("Gabriel","Fev/23","Fev/22","Desenvolvedor Flutter/Mobile",A.a(["Flutter","Firebase","BLoC/Cubit","Modular",q,"Mixpanel","OneSignal","Anima\xe7\xf5es"],p))],A.a3("u<nC>"))})
 s($,"ave","ah3",()=>A.acb(0))
