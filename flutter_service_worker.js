@@ -3,11 +3,12 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "48f06e1b45f500381e55d2c1e6bd7676",
-"assets/AssetManifest.json": "25706eef7d972c030e8e3ef5172e77c5",
+const RESOURCES = {"assets/AssetManifest.bin": "6150253e3ef2de22e0f170c271bf90d1",
+"assets/AssetManifest.json": "e0af4083a7ae32a931704b4d6a093162",
 "assets/assets/images/github.png": "c963626c145ea660ba7ceee666789c0a",
 "assets/assets/images/linkedin.png": "fa52c1c9de9c3d7f3314ee3b1d505fc0",
-"assets/assets/images/profile_image.jpg": "8bca334a329e2ef530962949f7aa5f07",
+"assets/assets/images/profile_image.png": "adf965a2d1715deb02a95f23944d05be",
+"assets/assets/images/profile_image1.jpg": "8bca334a329e2ef530962949f7aa5f07",
 "assets/assets/lottie/contact_animated.json": "9bed99d2ffd43ecad1dd23a36cf4444c",
 "assets/assets/lottie/cv_animated.json": "804b870621b03e37aaf665633311e974",
 "assets/assets/lottie/graduation_animated.json": "5b31dc91142cb7edf959245a0ae2a98f",
@@ -38,9 +39,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "48f06e1b45f500381e55d2c1e6bd7676
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "e9eb39ba4702c88878efc592604f43b2",
-"/": "e9eb39ba4702c88878efc592604f43b2",
-"main.dart.js": "a685193798aa7bbb6d76e259f0504310",
+"index.html": "3bcb231b47affbfc117ddad67a3a7f69",
+"/": "3bcb231b47affbfc117ddad67a3a7f69",
+"main.dart.js": "733d9bf25cbb9bf8637db53e3a21e4d5",
 "manifest.json": "6594968ed9a2ca90fb0744000e9fa091",
 "version.json": "c3a0f88580ea7958aa0679164f53adff"};
 // The application shell files that are downloaded before a service worker can
